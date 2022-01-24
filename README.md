@@ -1,2 +1,6 @@
 # Node_Login_Service
-A Blog Posting Web APp
+A Sign Up and Login system using following:
+Nodejs
+MongoDb
+Experss
+
